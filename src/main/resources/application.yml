@@ -1,0 +1,6 @@
+todo_url: https://jsonplaceholder.typicode.com/todos
+context:
+  initializer:
+    classes=com:
+      example:
+        de.rieckpil.blog.Wiremock
